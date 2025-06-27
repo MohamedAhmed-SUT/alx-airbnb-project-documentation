@@ -13,3 +13,4 @@ This Use Case diagram illustrates the primary interactions between the different
 
 ## System Use Cases
 
+![image](https://github.com/user-attachments/assets/e7276143-b93b-4760-913a-238a059bd8c6)
