@@ -1,1 +1,0 @@
-# alx-airbnb-project-documentation
